@@ -9,7 +9,7 @@ enum USER_INPUTS { NONE, UP, DOWN, RIGHT, LEFT, QUIT };
 class Player
 {
 private:
-	// Coordenadas de aparición y dirección
+	// Coordenadas de apariciÃ³n y direcciÃ³n
 	COORD spawn;
 	COORD direction;
 	// Se muestgra al personaje con una "O"
@@ -19,9 +19,9 @@ private:
 	ConsoleUtils::COLOR background = ConsoleUtils::COLOR::BLACK;
 
 	// Puede cojer 25 powers up
-	const int POWERUP_PICKED = 25;
+	const int POWERUP_PICKED = 10;
 public:
-	// Posición del personaje
+	// PosiciÃ³n del personaje
 	COORD position;
 	// Tenemos 3 vidas
 	int vidas = 3;
