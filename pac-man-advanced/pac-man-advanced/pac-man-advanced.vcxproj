@@ -129,8 +129,13 @@
   <ItemGroup>
     <ClInclude Include="enemy.h" />
     <ClInclude Include="mapa.h" />
+ 
     <ClInclude Include="player.h" />
+
+
+
     <ClInclude Include="tiempo-partida.h" />
+
     <ClInclude Include="utiles-consola.h" />
   </ItemGroup>
   <ItemGroup>
@@ -138,6 +143,7 @@
     <ClCompile Include="mapa.cpp" />
     <ClCompile Include="player.cpp" />
     <ClCompile Include="tiempo-partida.cpp" />
+
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

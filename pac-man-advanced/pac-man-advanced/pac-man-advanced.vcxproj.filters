@@ -21,6 +21,7 @@
     <ClInclude Include="mapa.h">
       <Filter>Archivos de encabezado</Filter>
     </ClInclude>
+
     <ClInclude Include="tiempo-partida.h">
       <Filter>Archivos de encabezado</Filter>
     </ClInclude>
@@ -38,11 +39,15 @@
     <ClCompile Include="tiempo-partida.cpp">
       <Filter>Archivos de recursos</Filter>
     </ClCompile>
+
     <ClCompile Include="enemy.cpp">
       <Filter>Archivos de recursos</Filter>
     </ClCompile>
     <ClCompile Include="player.cpp">
       <Filter>Archivos de recursos</Filter>
     </ClCompile>
+
+
+
   </ItemGroup>
 </Project>
