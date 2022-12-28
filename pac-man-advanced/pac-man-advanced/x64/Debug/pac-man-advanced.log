@@ -1,0 +1,20 @@
+﻿  enemy.cpp
+C:\Users\danij\OneDrive\Escritorio\pac-man-advanced\pac-man-advanced\utiles-consola.h(27,17): warning C4838: la conversión de 'int' en 'SHORT' requiere una conversión de restricción
+C:\Users\danij\OneDrive\Escritorio\pac-man-advanced\pac-man-advanced\utiles-consola.h(27,20): warning C4838: la conversión de 'int' en 'SHORT' requiere una conversión de restricción
+  info-programa.cpp
+C:\Users\danij\OneDrive\Escritorio\pac-man-advanced\pac-man-advanced\utiles-consola.h(27,17): warning C4838: la conversión de 'int' en 'SHORT' requiere una conversión de restricción
+C:\Users\danij\OneDrive\Escritorio\pac-man-advanced\pac-man-advanced\utiles-consola.h(27,20): warning C4838: la conversión de 'int' en 'SHORT' requiere una conversión de restricción
+  main.cpp
+C:\Users\danij\OneDrive\Escritorio\pac-man-advanced\pac-man-advanced\utiles-consola.h(27,17): warning C4838: la conversión de 'int' en 'SHORT' requiere una conversión de restricción
+C:\Users\danij\OneDrive\Escritorio\pac-man-advanced\pac-man-advanced\utiles-consola.h(27,20): warning C4838: la conversión de 'int' en 'SHORT' requiere una conversión de restricción
+C:\Users\danij\OneDrive\Escritorio\pac-man-advanced\pac-man-advanced\main.cpp(28,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  mapa.cpp
+C:\Users\danij\OneDrive\Escritorio\pac-man-advanced\pac-man-advanced\utiles-consola.h(27,17): warning C4838: la conversión de 'int' en 'SHORT' requiere una conversión de restricción
+C:\Users\danij\OneDrive\Escritorio\pac-man-advanced\pac-man-advanced\utiles-consola.h(27,20): warning C4838: la conversión de 'int' en 'SHORT' requiere una conversión de restricción
+C:\Users\danij\OneDrive\Escritorio\pac-man-advanced\pac-man-advanced\mapa.cpp(75,16): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+  player.cpp
+C:\Users\danij\OneDrive\Escritorio\pac-man-advanced\pac-man-advanced\utiles-consola.h(27,17): warning C4838: la conversión de 'int' en 'SHORT' requiere una conversión de restricción
+C:\Users\danij\OneDrive\Escritorio\pac-man-advanced\pac-man-advanced\utiles-consola.h(27,20): warning C4838: la conversión de 'int' en 'SHORT' requiere una conversión de restricción
+  tiempo-partida.cpp
+  Generando código...
+  pac-man-advanced.vcxproj -> C:\Users\danij\OneDrive\Escritorio\pac-man-advanced\x64\Debug\pac-man-advanced.exe
