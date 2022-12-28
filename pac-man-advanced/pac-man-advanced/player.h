@@ -19,7 +19,7 @@ private:
 	ConsoleUtils::COLOR background = ConsoleUtils::COLOR::BLACK;
 
 	// Puede cojer 25 powers up
-	const int POWERUP_PICKED = 25;
+	const int POWERUP_PICKED = 10;
 public:
 	// Posición del personaje
 	COORD position;
